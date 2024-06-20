@@ -1,0 +1,50 @@
+.wzzw{
+    width: 1200px;
+    margin: 0 auto;
+    padding: 20px 120px;
+    background: #FFFFFF;min-height:600px;
+}
+.wzzw .wz{
+    border-bottom: 2px solid #c1cae0;
+}
+
+.wzzw .rdyd{
+    width: 460px;
+    margin-top: 20px;
+}
+.wzzw .rdyd .bt{
+    font-size: 22px;
+    color: #4c67a7;
+    height: 45px;
+    line-height: 45px;
+    border-bottom: 1px solid #c1cae0;
+}
+.wzzw .rdyd .bt .gd{
+    float: right;
+    background: url(../images/gd_03.png) no-repeat center center;
+    display: inline-block;
+    width: 28px;
+    height: 8px;
+    margin-top: 20px;
+}
+.wzzw .rdyd .list li a{
+    font-size: 16px;
+    line-height: 40px;
+}
+.wzzw .rdyd .list li span{
+    font-size: 16px;
+    line-height: 40px;
+    color: #999999;
+}
+.wzzw .rdyd .list li img{
+    margin-right: 10px;
+}
+.wzzw ul li span{
+    float: right;
+}
+#zoom p {
+    line-height: 32px !important;
+}
+
+
+

@@ -1,0 +1,151 @@
+body.jnpageold {
+    font-size: 32px;
+}
+.jnpageold .content {
+    margin-top: 0 !important;
+}
+.jnpageold .old_dqwz{
+	background: #e4e8f2;
+}
+.jnpageold .old_art{
+	background: #ffffff;
+}
+.jnpageold .wzzw {
+    padding: 20px 0;
+}
+.jnpageold .dqwz {
+    height: 80px;
+    line-height: 76px;
+    padding-left:36px;
+}
+.jnpageold .dqwz img{
+    display: none;
+}
+.jnpageold .dqwz a {
+    font-size: 28px;
+    color:#000000;
+}
+.jnpageold .old_title{
+	font-size: 52px !important;
+	padding: 20px 0 !important;
+        color:#000  !important;
+}
+.jnpageold .sp_bianji{
+color:#666;
+}
+.jnpageold .old_line{
+	border-bottom:2px solid #d9d9d9 !important;
+}
+.jnpageold .sp_time font{
+	font-size: 28px !important;
+	width: auto !important;
+	margin-right: 25px !important;
+}
+.jnpageold .sp_time font:last-child{
+	margin-right: 0 !important;
+       display: none !important;
+}
+.jnpageold .bt-article-02{
+	padding:0 100px;
+	font-size: 32px;
+}
+.jnpageold #zoom p {
+    line-height: 64px !important;
+    font-size:32px;
+    color:#000;
+}
+.jnpageold .wip_content p span,.jnpageold #zoom p span{
+    font-size: 32px !important;
+}
+.jnpageold sp_bianji{
+font-size: 28px;
+    color: #666;
+}
+.jnpageold .bdsharebuttonbox {
+	margin-top: 0 !important;
+}
+.jnpageold .old_share{
+	height: 80px !important;
+	line-height: 80px !important;
+}
+.jnpageold .old_share a{
+	font-size: 28px !important;
+	height: 80px !important;
+	line-height: 80px !important;
+	margin-top: 0 !important;
+        color:#000;
+}
+.jnpageold .pone,.jnpageold  .ptwo{
+color:#000;
+font-size:36px;
+}
+.jnpageold .pone a,.jnpageold  .ptwo a{
+color:#000;
+font-size:36px;
+}
+.jnpageold .old_share a.bds_weixin{
+	padding-left: 55px !important;
+	background: url(../images/old_weixin.png) no-repeat center left;
+	margin-right: 12px !important;
+}
+.jnpageold .old_share a.bds_tsina{
+	padding-left: 55px !important;
+	background: url(../images/old_sina.png) no-repeat center left;
+}
+.jnpageold .old_sxp{
+	height: auto !important;
+	margin-top: 40px !important;
+	padding: 40px 0 !important;
+	border-top: 2px solid #c5c5c5 !important;
+}
+.jnpageold .rdyd{
+	
+}
+.jnpageold .wzzw .wz {
+    border-bottom: 0px;
+}
+.jnpageold .bdshare-button-style0-16 a,.jnpageold  .bdshare-button-style0-16 .bds_more{
+font-size: 24px;
+    padding-left: 24px;
+    line-height: 24px;
+    height: 24px;
+}
+.jnpageold .bdshare-button-style0-16 .bds_weixin{
+background-position: 0 -1605px;
+}
+.jnpageold .bdshare-button-style0-16 .bds_tsina{
+background-position: 0 -99px;
+}
+
+.jnpageold .wzzw .rdyd .list li{
+		display:flex;justify-content:space-between;align-items: center
+
+	}
+	.jnpageold .wzzw .rdyd .list li a{
+		overflow: hidden;
+		text-overflow:ellipsis;
+		white-space: nowrap;
+		width: 86%;
+
+	}
+	.jnpageold .wzzw .rdyd{
+		width: 100%;
+	}
+	.jnpageold .wzzw .rdyd .bt{
+		font-size: 36px;
+		height: 60px;
+		line-height: 60px;
+	}
+	.jnpageold .wzzw .rdyd .list li a{
+		width:86% ;
+		line-height: 60px;
+		font-size: 34px;
+	}
+	.jnpageold .wzzw .rdyd .list li span {
+    font-size: 32px;
+	}
+/* 新添加 */
+.jnpageold .bt-article-02>div:last-child{
+   height:auto !important;
+min-height:100px;
+}
